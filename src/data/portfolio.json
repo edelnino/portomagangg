@@ -1,0 +1,93 @@
+{
+  "profile": {
+    "name": "EDWARD",
+    "fullName": "Edward Daniel",
+    "title": "LOGIC MEETS DIVINE AESTHETICS",
+    "subtitle": "Selamat datang di portofolio Edward. Seorang Computer Science student, Frontend Developer & UI/UX Designer yang memadukan arsitektur kode Next.js dengan keindahan visual modern.",
+    "bio": "Saya adalah mahasiswa Computer Science yang berdedikasi pada Frontend Development & UI/UX Design. Seperti para pemahat era Klasik Yunani yang membentuk marmer dengan penuh ketelitian, saya membangun aplikasi web & mobile modern yang tidak hanya cepat secara teknis, tetapi juga memukau secara visual.",
+    "bioSecondary": "Dengan keahlian di bidang JavaScript, React, Next.js, dan UI/UX Design (Figma), setiap baris kode dan komponen UI yang saya ciptakan dirancang untuk memberikan user experience terbaik bagi penggunanya.",
+    "avatar": "/images/edward-portrait-final.jpg",
+    "heroBg": "/images/hero-olympus.jpg"
+  },
+  "socials": {
+    "github": "https://github.com/edelnino",
+    "linkedin": "https://linkedin.com/in/edwarddaniel1210",
+    "email": "edward.daniel@binus.ac.id",
+    "location": "Indonesia"
+  },
+  "skills": [
+    {
+      "god": "ATHENA",
+      "realm": "WISDOM & FRONTEND LOGIC",
+      "icon": "⚡",
+      "items": ["JavaScript (ES6+)", "React.js", "Next.js (App Router)", "State Management", "Component Architecture"]
+    },
+    {
+      "god": "HEPHAESTUS",
+      "realm": "CRAFTSMANSHIP & UI/UX",
+      "icon": "🔨",
+      "items": ["UI/UX Prototyping", "Figma Design System", "Vanilla CSS / Design Tokens", "Responsive Layouts"]
+    },
+    {
+      "god": "HERMES",
+      "realm": "SPEED & INTEGRATION",
+      "icon": "🕊️",
+      "items": ["RESTful APIs", "Git Version Control", "Vercel Deployment", "AI Tool Integration"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "sinar-abadi",
+      "title": "Sinar Abadi",
+      "subtitle": "Building Material E-Commerce & AI Assistant",
+      "domain": "HEPHAESTUS — E-COMMERCE & AI ENGINE",
+      "description": "Website toko bangunan online yang membantu pemesanan bahan material secara online, pengantaran terintegrasi, dan pemakaian Artificial Intelligence (AI) Chatbot untuk konsultasi kebutuhan material bangunan.",
+      "impact": "Meningkatkan efisiensi pemesanan toko material dan mempercepat estimasi biaya proyek bagi pelanggan.",
+      "image": "/images/project-sinar-abadi.jpg",
+      "tags": ["Next.js / Web", "React", "AI Integration", "Mobile PPT", "E-Commerce"],
+      "links": [
+        { "name": "Web Repo (GitHub)", "url": "https://github.com/Calvin3C/web--sinar-abadi.git" },
+        { "name": "Mobile Repo (GitHub)", "url": "https://github.com/Calvin3C/mobile-sinar-abadi-PPT.git" }
+      ]
+    },
+    {
+      "id": "debouquets",
+      "title": "debouqets",
+      "subtitle": "Floral Boutique E-Commerce & Owner Finance Dashboard",
+      "domain": "APHRODITE — LUXURY FLORAL E-COMMERCE",
+      "description": "Website toko bunga dan bouquet untuk membantu pemesanan online serta dashboard recap komprehensif bagi owner dalam memantau keuangan dan penjualan secara real-time.",
+      "impact": "Memudahkan pemesanan buket bunga secara online dan otomatisasi rekapitulasi finansial toko.",
+      "image": "/images/project-debouquets.jpg",
+      "tags": ["React.js", "Financial Dashboard", "Chart.js", "Order Management", "Vanilla CSS"],
+      "links": [
+        { "name": "GitHub Repo", "url": "https://github.com/Arthursakaa/Web_Debouquets" }
+      ]
+    },
+    {
+      "id": "canopy-membrane",
+      "title": "CanopyMembrane",
+      "subtitle": "Architectural Membrane & Canopy Corporate Profile",
+      "domain": "POSEIDON — ARCHITECTURAL PROFILE",
+      "description": "Company profile modern dan profesional untuk perusahaan spesialis kanopi & membran arsitektural. Menampilkan portofolio proyek terpasang, keunggulan material, dan form penawaran harga interaktif.",
+      "impact": "Meningkatkan kredibilitas perusahaan dan menarik lead klien komersial secara signifikan.",
+      "image": "/images/project-canopy.jpg",
+      "tags": ["Company Profile", "Responsive Web Design", "UI/UX Design", "Vercel Hosting"],
+      "links": [
+        { "name": "Live Demo Website", "url": "https://canopy-olive-eta.vercel.app" }
+      ]
+    },
+    {
+      "id": "takarasa",
+      "title": "Takarasa",
+      "subtitle": "Healthy Food Delivery & Calorie Tracking Mobile App",
+      "domain": "DEMETER — HEALTH & NUTRITION APPS",
+      "description": "Aplikasi mobile intuitif untuk pemesanan makanan sehat yang dilengkapi takaran gizi dan informasi kesehatan lengkap untuk gaya hidup seimbang.",
+      "impact": "Membantu pengguna menerapkan pola makan sehat dengan rekomendasi gizi yang tepat dan intuitif.",
+      "image": "/images/project-takarasa.jpg",
+      "tags": ["UI/UX Design", "Figma Interactive Prototype", "Mobile Design System", "Nutritional UX"],
+      "links": [
+        { "name": "Figma Prototype", "url": "https://www.figma.com/proto/MP3BrHioTT8CjabdVrLZXw/Food-Delivery?node-id=5-681&starting-point-node-id=10%3A768&t=0UaXJDrGcqWlWH1X-1" }
+      ]
+    }
+  ]
+}
